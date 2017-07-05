@@ -1,0 +1,42 @@
+
+.main-style{
+  margin:30px 14% 0 14%;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.marginned-header{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+em {
+  font-weight: bold;
+  font-style: normal;
+}
+
+p.full-line-text{
+  text-align: justify;
+}
+
+p.right-text{
+  text-align: right;
+}
+
+.picture-row{
+  display:flex;
+  justify-content: space-between;
+  margin-bottom:30px;
+}
+
+.text-align-center{
+  text-align: center;;
+}
+
+.footer-text {
+  font-size: 14px;
+}
+
+a.spaced-link{
+  margin-right: 10px;
+}
